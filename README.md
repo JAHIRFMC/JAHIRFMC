@@ -1,4 +1,4 @@
-### Hi there  👋  I'M JAHIR MEDINA :computer:SYSTEMS ENGINEER:computer: :globe_with_meridians:
+### Hi there  👋  I'M JAHIR MEDINA :globe_with_meridians::computer:SYSTEMS ENGINEER:computer: :globe_with_meridians:
 
 
 
