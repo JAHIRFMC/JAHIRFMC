@@ -25,4 +25,4 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    </p>
    
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JAHIRFMC)](https://github.com/anuraghazra/github-readme-stats)
+   [![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api?username=JAHIRFMC)]
