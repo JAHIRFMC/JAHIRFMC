@@ -25,6 +25,6 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    </p>
    
-![JAHIRFMC github ](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=prussian)
+![JAHIRFMC github ](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=chartreuse-dark)
 
-[![Top ](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIRFMC&layout=compact&theme=prussian&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top ](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIRFMC&layout=compact&theme=chartreuse-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
