@@ -26,4 +26,4 @@
    </p>
    
    [![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api?username=JAHIRFMC)]
-   [! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = JAHIRFMC & layout = compact )]
+   [! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username =JAHIRFMC & layout = compact )]
