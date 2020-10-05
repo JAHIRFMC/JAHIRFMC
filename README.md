@@ -24,5 +24,6 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    </p>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JAHIRFMC&show_icons=true)   
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIRFMC&layout=compact&theme=prussian&hide=jupyter%20notebook)]
+![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIRFMC&layout=compact&theme=prussian&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
