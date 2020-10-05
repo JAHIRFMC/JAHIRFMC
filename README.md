@@ -26,6 +26,6 @@
    </p>
    
    
- ![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
+ ![JAHIRFMC github stats](https://githubreadmestats.vercel.app/api/username=JAHIRFMC&hide=stars&show_icons=true&theme=chartreusedark&include_all_commits=true&count_private=true)
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIRFMC&layout=compact&theme=prussian&hide=jupyter%20notebook)]
