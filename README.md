@@ -13,7 +13,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/37983099/88250448-46d3ab00-cc6d-11ea-976c-45b1e145347c.png" height="300">
 
-![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=chartreuse-dark=true&count_private=true)
+![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=chartreuse-dark=true&include_all_commits&count_private=true)
     
 
 
