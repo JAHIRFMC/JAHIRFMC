@@ -1,4 +1,6 @@
 ### Hi there  👋  I'M JAHIR MEDINA :globe_with_meridians::computer:SYSTEMS ENGINEER:computer: :globe_with_meridians:
+[![GitHub User](https://img.shields.io/badge/GitHub-JAHIRFMC-red?style=plastic&logo=github&link=https://github.com/JAHIRFMC)](https://github.com/JAHIRFMC)
+[![LinkeIn User](https://img.shields.io/badge/Linkedin-JAHIRFMC-blue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/JAHIRFMC/)](https://www.linkedin.com/in/JAHIRFMC/)
 
 ***Hola, mi Nombre es JAHIR FERNAN MEDINA CORREDOR  Ingeniero De Sistemas y Computación 
     me caracterizo por ser una persona responsable,honesto, dinámico con asimilación rápida de nuevos conocimientos ytecnologías.***
@@ -14,3 +16,8 @@
 ![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=midnight-purple&show&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIRFMC&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+### ***Repositories***
+
+[![Repository Electiva4](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=electiva4&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/electiva4)
+
