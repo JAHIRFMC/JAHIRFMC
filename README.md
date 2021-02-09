@@ -14,7 +14,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/37983099/88250448-46d3ab00-cc6d-11ea-976c-45b1e145347c.png" height="300">
 
 
-![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api? Username = JAHIRFMC & theme = dark & show_icons = true )
+![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api/? Username = JAHIRFMC & theme = dark & show_icons = true )
 
 ![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=stars&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
