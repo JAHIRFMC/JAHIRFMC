@@ -19,5 +19,5 @@
 
 ### ***Repositories***
 
-[![EJEMPLOO LAYOUT](https://github-readme-stats.vercel.app/api/pin/?username=JAHIRFMC&repo=EjemploLayout&show_owner=true&theme=ayu-mirage)](https://github.com/JAHIRFMC/EjemploLayout)
+[![EJEMPLOO LAYOUT](https://github-readme-stats.vercel.app/api/pin/?username=JAHIRFMC&repo=EjemploLayout&show_owner=true&theme=prussian)](https://github.com/JAHIRFMC/EjemploLayout)
 
