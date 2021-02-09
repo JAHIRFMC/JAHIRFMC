@@ -1,6 +1,7 @@
 ### Hi there  👋  I'M JAHIR MEDINA :globe_with_meridians::computer:SYSTEMS ENGINEER:computer: :globe_with_meridians:
 
-
+***Hola, mi Nombre es JAHIR FERNAN MEDINA CORREDOR  Ingeniero De Sistemas y Computación 
+    me caracterizo por ser una persona responsable,honesto, dinámico con asimilación rápida de nuevos conocimientos ytecnologías.***
 
 ## ***SKILLS***
 [<img src="https://img.shields.io/badge/JAVASCRIPT-%23e3c914.svg?&style=for-the-badge&logo=javascript&logoColor=orange" alt="JAVASCRIPT"/>]()
@@ -10,11 +11,8 @@
 [<img src="https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/JAVA-%23c41414.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/>](https://www.oracle.com/co/java/technologies/javase-downloads.html)
 
-***Hola, mi Nombre es JAHIR FERNAN MEDINA CORREDOR  Ingeniero De Sistemas y Computación 
-    me caracterizo por ser una persona responsable,honesto, dinámico con buenas relaciones
-    interpersonales,con la capacidad de liderazgo para el trabajo en equipo con objetividad
-    y profesionalismo.***
+
     
-***Cuento con habilidades organizativas, asimilación rápida de nuevos conocimientos ytecnologías.***
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
