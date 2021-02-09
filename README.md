@@ -12,7 +12,7 @@
 [<img src="https://img.shields.io/badge/JAVA-%23c41414.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/>](https://www.oracle.com/co/java/technologies/javase-downloads.html)
 
 <img align="right" src="https://user-images.githubusercontent.com/37983099/88250448-46d3ab00-cc6d-11ea-976c-45b1e145347c.png" height="300">
-![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=chartreuse-ark_all=true&count_private=true)
+
 ![JAHIRFMC github stats](https://github-readme-stats.vercel.app/api/?username=JAHIRFMC&hide=stars&show_icons=true&theme=chartreuse-ark_all_commits=true&count_private=true)
 ![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=stars&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
