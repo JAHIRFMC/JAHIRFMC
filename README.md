@@ -19,5 +19,5 @@
 
 ### ***Repositories***
 
-[![Repository Electiva4](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=electiva4&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/electiva4)
+[![EJEMPLOO LAYOUT](https://github-readme-stats.vercel.app/api/pin/?username=JAHIRFMC&repo=EjemploLayout&show_owner=true&theme=ayu-mirage)](https://github.com/JAHIRFMC/EjemploLayout)
 
