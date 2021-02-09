@@ -15,6 +15,6 @@
     interpersonales,con la capacidad de liderazgo para el trabajo en equipo con objetividad
     y profesionalismo.***
     
-***Cuento con habilidades organizativas, asimilación rápida de nuevos conocimientos ytecnologías. ***
+***Cuento con habilidades organizativas, asimilación rápida de nuevos conocimientos ytecnologías.***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
