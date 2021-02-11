@@ -18,8 +18,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHIRFMC&layout=compact&theme=midnight-purple)](https://github.com/JAHIRFMC/github-readme-stats)
 
 ### ***Repositories***
-[![CARRITO DE COMPRAS ](https://github-readme-stats.vercel.app/api/pin/?username=JAHIRFMC&repo=EjemploLayout&show_owner=true&theme=prussian)](https://github.com/JAHIRFMC/Carrito_De_Compras-1)
+[![CARRITO DE COMPRAS ](https://github-readme-stats.vercel.app/api/pin/?username=JAHIRFMC&repo=Carrito_De_Compras-1&show_owner=true&theme=prussian)](https://github.com/JAHIRFMC/Carrito_De_Compras-1)
 
 
-[![ LAYOUT](https://github-readme-stats.vercel.app/api/pin/?username=JAHIRFMC&repo=EjemploLayout&show_owner=true&theme=prussian)](https://github.com/JAHIRFMC/EjemploLayout)
+[![ LAYOUT](https://github-readme-stats.vercel.app/api/pin/?username=JAHIRFMC&repo=Layout&show_owner=true&theme=prussian)](https://github.com/JAHIRFMC/EjemploLayout)
 
